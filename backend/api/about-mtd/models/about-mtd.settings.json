@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "about_mtds",
+  "info": {
+    "name": "AboutMTD"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "detail": {
+      "type": "text"
+    }
+  }
+}

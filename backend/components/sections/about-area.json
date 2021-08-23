@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sections_about_areas",
+  "info": {
+    "name": "AboutArea",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "title": {
+      "type": "text"
+    },
+    "detail": {
+      "type": "richtext"
+    }
+  }
+}

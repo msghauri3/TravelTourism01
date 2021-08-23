@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_team_areas",
+  "info": {
+    "name": "TeamArea",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "detail": {
+      "type": "richtext"
+    }
+  }
+}

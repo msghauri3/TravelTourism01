@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_sections_my_links_bars",
+  "info": {
+    "name": "MyLinksBar",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url1": {
+      "type": "string"
+    },
+    "url2": {
+      "type": "string"
+    },
+    "url3": {
+      "type": "string"
+    },
+    "url4": {
+      "type": "string"
+    },
+    "url5": {
+      "type": "string"
+    },
+    "title1": {
+      "type": "string"
+    },
+    "title2": {
+      "type": "string"
+    },
+    "title3": {
+      "type": "string"
+    },
+    "title4": {
+      "type": "string"
+    },
+    "title5": {
+      "type": "string"
+    }
+  }
+}

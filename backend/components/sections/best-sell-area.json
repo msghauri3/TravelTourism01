@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_best_sell_areas",
+  "info": {
+    "name": "BestSellArea",
+    "icon": "balance-scale"
+  },
+  "options": {},
+  "attributes": {
+    "title1": {
+      "type": "string"
+    },
+    "detail1": {
+      "type": "richtext"
+    },
+    "title2": {
+      "type": "string"
+    },
+    "detail2": {
+      "type": "richtext"
+    }
+  }
+}

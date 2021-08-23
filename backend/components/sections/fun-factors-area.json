@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_fun_factors_areas",
+  "info": {
+    "name": "FunFactorsArea",
+    "icon": "baby"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "detail": {
+      "type": "richtext"
+    }
+  }
+}

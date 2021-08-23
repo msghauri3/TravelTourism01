@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_sections_my_sliders",
+  "info": {
+    "name": "MySlider",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "title1": {
+      "type": "text"
+    },
+    "title2": {
+      "type": "text"
+    },
+    "title3": {
+      "type": "text"
+    },
+    "title4": {
+      "type": "text"
+    },
+    "title5": {
+      "type": "text"
+    },
+    "title6": {
+      "type": "text"
+    },
+    "title7": {
+      "type": "text"
+    },
+    "title8": {
+      "type": "text"
+    },
+    "title9": {
+      "type": "text"
+    },
+    "title10": {
+      "type": "text"
+    }
+  }
+}

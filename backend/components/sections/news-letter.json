@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_news_letters",
+  "info": {
+    "name": "NewsLetter",
+    "icon": "arrows-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "detail": {
+      "type": "richtext"
+    }
+  }
+}

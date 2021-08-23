@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_blog_areas",
+  "info": {
+    "name": "BlogArea",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "detail": {
+      "type": "richtext"
+    }
+  }
+}
